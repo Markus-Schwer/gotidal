@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/tomjowitt/gotidal"
+	"github.com/Markus-Schwer/gotidal"
 )
 
 func main() {
